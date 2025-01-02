@@ -14,6 +14,8 @@
 
 4. 透過 col-XX-y 來做成 RWD
 
+5. bootstrap grid 使用 flexbox 製成
+
 ## How to start
 
 1. 使用 `.container` 來做一個定寬容器 (若想坐滿版的 `.container-fluid`)
